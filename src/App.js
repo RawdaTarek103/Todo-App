@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
-import Edit from './component/edit/edit'
+import Home from './screen/home/home'
+
+
 
 function App() {
   return (
     <div className="App">
-      <Edit/>
+      <Home/>
     </div>
   );
 }
