@@ -1,5 +1,6 @@
 .list_container{
-    height: 500px;
+    height: fit-content;
     width: 95%;
-    margin: auto
+    margin: auto;
+   
 }
